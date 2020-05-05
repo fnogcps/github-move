@@ -1,7 +1,7 @@
 {
     "name": "virtual/miniature-pancake",
     "require": {
-        "phpunit/phpunit": "^8.1"
+        "phpunit/phpunit": "6.5.14"
     },
     "autoload": {
         "psr-4": {
